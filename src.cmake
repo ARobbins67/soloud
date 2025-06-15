@@ -1,7 +1,7 @@
 set (TARGET_NAME soloud)
 
-set (HEADER_PATH ../include)
-set (SOURCE_PATH ../src)
+set (HEADER_PATH include)
+set (SOURCE_PATH src)
 
 set (LINK_LIBRARIES)
 
